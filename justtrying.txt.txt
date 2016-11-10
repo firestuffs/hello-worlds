@@ -1,0 +1,7 @@
+----------------
+https://developer.microsoft.com/en-us/dashboard/account/management
+----------------
+http://www.ibm.com/developerworks/opensource/tutorials/os-phptut3/os-phptut3.html
+.....................................
+https://channel9.msdn.com/Series/Build-your-first-Windows-Store-app/JavaScript-Part-1-Create-a-Hello-world-app
+--------------
